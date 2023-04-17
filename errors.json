@@ -1,0 +1,10 @@
+{
+    "E1000": "Only owner can use this function.",
+    "E1001": "Only game masters can use this function.",
+
+    "E2000": "Betting is closed on this round.",
+    "E2001": "Round ran out of time.",
+    "E2002": "Invalid color.",
+    "E2003": "Invalid amount.",
+    "E2004": "Already placed a bet for this round."
+}
